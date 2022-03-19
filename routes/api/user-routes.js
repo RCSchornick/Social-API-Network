@@ -7,7 +7,7 @@ const {
   deleteUser,
   addFriend,
   deleteFriend
-} = require('../../controllers/pizza-controller');
+} = require('../../controllers/user-controller');
 
 // /api/users
 router
